@@ -1,0 +1,121 @@
+﻿type,city,driver_count,average_fare,ride_count
+Rural,Bradshawfurt,7,40.06,10
+Rural,Garzaport,7,24.12,3
+Rural,Harringtonfort,4,33.47,6
+Rural,Jessicaport,1,36.01,6
+Rural,Lake Jamie,4,34.36,6
+Rural,Lake Latoyabury,2,26.06,11
+Rural,Michaelberg,6,35,12
+Rural,New Ryantown,2,43.28,6
+Rural,Newtonview,1,36.75,4
+Rural,North Holly,8,29.13,9
+Rural,North Jaime,1,30.8,8
+Rural,Penaborough,6,35.25,5
+Rural,Randallchester,9,29.74,5
+Rural,South Jennifer,7,35.26,7
+Rural,South Marychester,1,41.87,8
+Rural,South Saramouth,7,36.16,4
+Rural,Taylorhaven,1,42.26,6
+Rural,West Heather,4,33.89,9
+Suburban,Barronchester,11,36.42,16
+Suburban,Bethanyland,22,32.96,18
+Suburban,Brandonfort,10,35.44,19
+Suburban,Colemanland,23,30.89,22
+Suburban,Davidfurt,23,32,17
+Suburban,East Aaronbury,7,25.66,9
+Suburban,East Danielview,22,31.56,17
+Suburban,East Kentstad,20,29.82,13
+Suburban,East Marymouth,5,30.84,27
+Suburban,Grayville,2,27.76,15
+Suburban,Josephside,25,32.86,27
+Suburban,Lake Ann,3,30.89,12
+Suburban,Lake Omar,22,28.08,14
+Suburban,Lake Robertside,4,31.26,25
+Suburban,Lake Scott,23,31.89,18
+Suburban,Lewishaven,23,25.24,12
+Suburban,Lewisland,4,34.61,17
+Suburban,Mezachester,14,30.76,17
+Suburban,Myersshire,19,30.2,16
+Suburban,New Olivia,20,34.05,17
+Suburban,New Raymond,17,27.96,22
+Suburban,New Shannonberg,20,28.38,17
+Suburban,Nicolechester,19,30.91,19
+Suburban,North Jeffrey,11,29.24,13
+Suburban,North Richardhaven,1,24.7,14
+Suburban,North Timothy,7,31.26,15
+Suburban,Port Shane,7,31.08,19
+Suburban,Rodriguezview,20,30.75,15
+Suburban,Sotoville,10,31.98,11
+Suburban,South Brenda,1,33.96,24
+Suburban,South Teresa,21,31.22,22
+Suburban,Veronicaberg,20,32.83,17
+Suburban,Victoriaport,16,27.78,14
+Suburban,West Hannah,12,29.55,21
+Suburban,West Kimmouth,4,29.87,20
+Suburban,Williamsonville,2,31.88,14
+Urban,Amandaburgh,12,24.64,18
+Urban,Barajasview,26,25.33,22
+Urban,Carriemouth,52,28.31,27
+Urban,Christopherfurt,41,24.5,27
+Urban,Deanville,49,25.84,19
+Urban,East Kaylahaven,65,23.76,29
+Urban,Erikaland,37,24.91,12
+Urban,Grahamburgh,61,25.22,25
+Urban,Huntermouth,37,28.99,24
+Urban,Hurleymouth,36,25.89,28
+Urban,Jerryton,64,25.65,25
+Urban,Johnton,27,26.79,21
+Urban,Joneschester,39,22.29,25
+Urban,Justinberg,39,23.69,30
+Urban,Karenberg,22,26.34,17
+Urban,Karenside,5,27.45,28
+Urban,Lake Danielberg,19,24.84,26
+Urban,Lake Jonathanshire,5,23.43,24
+Urban,Lake Scottton,58,23.81,24
+Urban,Leahton,17,21.24,21
+Urban,Liumouth,69,26.15,33
+Urban,Loganberg,23,25.29,28
+Urban,Martinezhaven,25,22.65,24
+Urban,New Jacobville,50,26.77,18
+Urban,New Kimberlyborough,33,22.59,30
+Urban,New Paulton,44,27.82,19
+Urban,New Paulville,44,21.68,22
+Urban,North Barbara,18,23.49,22
+Urban,North Jasmine,33,25.21,30
+Urban,North Jason,6,22.74,35
+Urban,North Madeline,19,22.62,25
+Urban,North Markport,22,27.5,14
+Urban,Pattyland,59,23.98,21
+Urban,Port Angela,67,23.84,19
+Urban,Port David,7,25.86,22
+Urban,Port Frank,23,27.2,33
+Urban,Port Johnbury,3,23.01,22
+Urban,Port Samanthamouth,57,25.64,25
+Urban,Raymondhaven,11,21.48,25
+Urban,Reynoldsfurt,67,21.92,19
+Urban,Richardfort,38,22.37,28
+Urban,Roberthaven,47,23.73,24
+Urban,Robertport,12,23.06,20
+Urban,Rodneyfort,34,28.62,23
+Urban,Rogerston,25,22.1,22
+Urban,Royland,64,20.57,30
+Urban,Simpsonburgh,21,23.36,24
+Urban,South Evanton,11,26.73,31
+Urban,South Jack,46,22.97,19
+Urban,South Karenland,4,26.54,38
+Urban,South Latoya,10,20.09,19
+Urban,South Michelleport,72,24.45,31
+Urban,South Phillip,38,28.57,31
+Urban,Valentineton,45,24.64,22
+Urban,West Angela,48,25.99,39
+Urban,West Anthony,70,24.74,30
+Urban,West Christopherberg,32,24.42,26
+Urban,West Ericstad,25,22.35,18
+Urban,West Gabriel,57,20.35,23
+Urban,West Heidi,28,23.13,28
+Urban,West Josephberg,45,21.72,26
+Urban,West Patrickchester,25,28.23,16
+Urban,West Robert,39,25.12,31
+Urban,West Samuelburgh,73,21.77,25
+Urban,Williamsstad,59,24.36,23
+Urban,Williamsview,46,26.6,20
